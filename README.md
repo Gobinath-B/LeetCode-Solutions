@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

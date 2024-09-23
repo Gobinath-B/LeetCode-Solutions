@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0398-random-pick-index](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |

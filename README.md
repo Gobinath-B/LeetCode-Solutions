@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Recursion
 |  |

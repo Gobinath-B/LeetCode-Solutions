@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

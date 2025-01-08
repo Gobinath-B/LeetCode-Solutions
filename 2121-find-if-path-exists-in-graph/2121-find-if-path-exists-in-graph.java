@@ -35,14 +35,15 @@ class Solution {
         visited[node] = true;
         
         // Explore all the neighbors of the current node
-        for (int neighbor : graph[node]) {
-            // If the neighbor hasn't been visited, perform DFS on it
-            if (!visited[neighbor]) {
-                if (dfs(neighbor, destination, graph, visited)) {
-                    return true; // If a path is found, return true
-                }
+      for (int i = 0; i < graph[node].size(); i++) {
+        int neighbor = graph[node].get(i); // Accessing the neighbor using an index
+        // If the neighbor hasn't been visited, perform DFS on it
+        if (!visited[neighbor]) {
+            if (dfs(neighbor, destination, graph, visited)) {
+                return true; // If a path is found, return true
             }
         }
+    }
         
         // If no valid path is found, return false
         return false;

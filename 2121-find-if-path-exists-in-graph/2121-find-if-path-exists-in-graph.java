@@ -22,28 +22,41 @@ class Solution {
         boolean[] visited = new boolean[n];
         
         // Perform DFS from the source node
-        return dfs(source, destination, graph, visited);
+        return dfsIterative(source, destination, graph, visited);
     }
     
-    private boolean dfs(int node, int destination, List<Integer>[] graph, boolean[] visited) {
-        // Base case: If we've reached the destination
-        if (node == destination) {
-            return true;
-        }
+   private boolean dfsIterative(int source, int destination, List<Integer>[] graph, boolean[] visited) {
+        // Create a stack for the DFS traversal
+        Stack<Integer> stack = new Stack<>();
         
-        // Mark the current node as visited
-        visited[node] = true;
+        // Push the source node to the stack
+        stack.push(source);
         
-        // Explore all the neighbors of the current node
-      for (int i = 0; i < graph[node].size(); i++) {
-        int neighbor = graph[node].get(i); // Accessing the neighbor using an index
-        // If the neighbor hasn't been visited, perform DFS on it
-        if (!visited[neighbor]) {
-            if (dfs(neighbor, destination, graph, visited)) {
-                return true; // If a path is found, return true
+        // While there are nodes to visit
+        while (!stack.isEmpty()) {
+            // Pop the top node from the stack
+            int node = stack.pop();
+            
+            // If we've already visited this node, skip it
+            if (visited[node]) {
+                continue;
+            }
+            
+            // Mark the current node as visited
+            visited[node] = true;
+            
+            // Base case: If we've reached the destination
+            if (node == destination) {
+                return true;
+            }
+            
+            // Explore all the neighbors of the current node
+            for (int neighbor : graph[node]) {
+                if (!visited[neighbor]) {
+                    stack.push(neighbor); // Push unvisited neighbors onto the stack
+                }
             }
         }
-    }
         
         // If no valid path is found, return false
         return false;

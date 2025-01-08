@@ -41,6 +41,7 @@
 | [0729-my-calendar-i](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+| [1039-find-the-town-judge](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -76,6 +77,7 @@
 | [0398-random-pick-index](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1039-find-the-town-judge](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2755-extra-characters-in-a-string](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -197,5 +199,6 @@
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

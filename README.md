@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0078-subsets) |
@@ -208,5 +209,6 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

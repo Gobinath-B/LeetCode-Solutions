@@ -13,6 +13,7 @@
 | [0398-random-pick-index](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
@@ -199,6 +200,7 @@
 | [0432-all-oone-data-structure](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |

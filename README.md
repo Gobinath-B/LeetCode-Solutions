@@ -189,6 +189,7 @@
 | [0189-rotate-array](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/0859-design-circular-deque) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gobinath-B/https-github.com-Gobinath-B-LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
